@@ -1,4 +1,5 @@
 🛡️ Network Anomaly Detection — Linear Regression SIEM Filter
+
 A cybersecurity-focused machine learning model that detects network intrusions and anomalous traffic patterns using linear regression as a statistical baseline — the same first-pass anomaly filtering approach used by enterprise SIEM platforms like Splunk UBA and Elastic SIEM.
 
 📌 Problem Statement
